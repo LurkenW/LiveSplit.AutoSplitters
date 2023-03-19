@@ -12064,6 +12064,16 @@
     </AutoSplitter>
     <AutoSplitter>
         <Games>
+            <Game>Shadowrun: Dragonfall</Game>
+        </Games>
+        <URLs>
+            <URL>https://raw.githubusercontent.com/LurkenW/Shadowrun-Dragonfall-Autosplitter/main/SrDTest.asl</URL>
+        </URLs>
+        <Type>Script</Type>
+        <Description>Autosplitting, Load Remover (by RadioLurken)</Description>
+    </AutoSplitter>
+    <AutoSplitter>
+        <Games>
             <Game>Super Blue Boy Planet</Game>
         </Games>
         <URLs>
